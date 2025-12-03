@@ -26,7 +26,7 @@ It is distributed as a precompiled `.xcframework` and integrated via **Swift Pac
 3. In the **“Search or Enter Package URL”** field, enter:
 
    ```text
-   https://github.com/premium-ads/premiumads-adapter-ios.git
+   https://github.com/premium-ads/premiumads-adapter-spm.git
    ```
 
 4. Set the **Dependency Rule** to:
@@ -81,7 +81,7 @@ Xcode will fetch and link the new version automatically.
 If you encounter any issues or need assistance:
 
 - Email: `alex@premiumads.net`
-- GitHub Issues: `https://github.com/premium-ads/premiumads-adapter-ios/issues`
+- GitHub Issues: `https://github.com/premium-ads/premiumads-adapter-spm/issues`
 
 When contacting support, please include:
 
